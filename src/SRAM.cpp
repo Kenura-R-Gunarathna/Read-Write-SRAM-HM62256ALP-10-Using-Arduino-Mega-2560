@@ -76,7 +76,7 @@ void writeSRAM(const uint16_t address, const uint8_t data) {
 
     digitalWrite(csPin, LOW);
     digitalWrite(wePin, LOW);
-    digitalWrite(oePin, HIGH);  // Disable output during write
+    digitalWrite(oePin, HIGH);
 
     delayMicroseconds(1);  // Minimum write pulse width
 
