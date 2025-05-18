@@ -2,7 +2,7 @@
 
 This is one of my small projects to read and write to the `HM62256ALP-10` SRAM using an Arduino Mega 2560. The SRAM ICs were sourced from AliExpress at a reasonable price. I initially wrote the basic code with the help of ChatGPT and then refined it further. If you plan to run this code, I highly recommend using **PlatformIO** for a smoother development experience.
 
-<img src="/lib/images/ic.jpg" height="150px"> <img src="/lib/images/mega-2560.jpg" height="150px"> <img src="/lib/images/setup.jpg" height="150px">
+<img src="/lib/images/ic.jpg" height="150px"/> <img src="/lib/images/mega-2560.jpg" height="150px"/> <img src="/lib/images/setup.jpg" height="150px"/>
 
 ### Pin Configuration
 
